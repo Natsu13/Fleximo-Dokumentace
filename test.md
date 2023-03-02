@@ -1,6 +1,6 @@
 ---
 title: Test
-layout: home
+layout: default
 ---
 
 # Welcome to StackEdit!
