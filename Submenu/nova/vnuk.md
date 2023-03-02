@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Nova
+title: Vnuk
 parent: Hello world
+grand_parent: Nova
 ---
 
-text
+aaaaaaa
