@@ -8,4 +8,5 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 color_scheme: dark
-mermaid: true
+mermaid:
+  version: "9.1.3"
