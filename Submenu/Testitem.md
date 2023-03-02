@@ -1,12 +1,7 @@
 ---
 layout: default
 title: Test item
-parent: Submenu
----
-
-1. TOC
-{:toc}
-
+parent: Hello world
 ---
 
 ## Basic button styles
